@@ -33,4 +33,4 @@ This app uses the **OpenWeather API** to fetch real-time weather data. You will 
 Follow these steps to set up the Weather App locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/RiddhiJayswal/Weather-App.git
